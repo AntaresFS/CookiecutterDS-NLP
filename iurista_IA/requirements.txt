@@ -1,0 +1,23 @@
+black
+flake8
+ipython
+isort
+jupyter
+loguru
+matplotlib
+mkdocs
+notebook
+numpy
+pandas
+pip
+python-dotenv
+scikit-learn
+tqdm
+typer
+-e .
+seaborn
+nltk
+spacy
+tensorflow
+torch
+transformers
