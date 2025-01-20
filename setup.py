@@ -1,0 +1,31 @@
+from setuptools import setup, find_packages
+
+setup(
+    name='iurista_IA',
+    version='0.1',
+    packages=find_packages(),
+    install_requires=[
+        'black',
+        'flake8',
+        'ipython',
+        'isort',
+        'jupyter',
+        'loguru',
+        'matplotlib',
+        'mkdocs',
+        'notebook',
+        'numpy',
+        'pandas',
+        'pip',
+        'python-dotenv',
+        'scikit-learn',
+        'tqdm',
+        'typer',
+        'seaborn',
+        'nltk',
+        'spacy',
+        'tensorflow',
+        'torch',
+        'transformers',
+    ],
+)

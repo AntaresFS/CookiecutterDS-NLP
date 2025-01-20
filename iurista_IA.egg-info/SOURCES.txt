@@ -1,0 +1,7 @@
+README.md
+setup.py
+iurista_IA.egg-info/PKG-INFO
+iurista_IA.egg-info/SOURCES.txt
+iurista_IA.egg-info/dependency_links.txt
+iurista_IA.egg-info/requires.txt
+iurista_IA.egg-info/top_level.txt
